@@ -37,6 +37,21 @@ Epic | 预约拍照App |
 #### 隐性需求
 * 小型公司经费不足请不动专业的摄影公司，可以请花费相对较少的自由摄影师
 
+## API测试
+#### 1、百度图像识别API
+![百度图像识别API](https://github.com/SunnyHe1999/API_ML_AI/blob/master/image/%E7%99%BE%E5%BA%A6%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%ABAPI%E8%B0%83%E7%94%A8%EF%BC%88%E9%99%84%E5%9B%BE%E7%89%87%EF%BC%89.png)
+* 输入：女模特摆拍照片
+* 输出：人物特写、美女、演唱
+* 判断：不完全正确（这并不是演唱，但确实是美女的人物特写照片）
+* 检测时间：约3秒（尚可接受）
+
+#### 2、高德定位API
+![高德定位API](https://github.com/SunnyHe1999/API_ML_AI/blob/master/image/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BEAPI%E8%B0%83%E7%94%A8.png)
+* 输入：中山大学南方学院
+* 输出：中山大学南方学院
+* 判断：正确
+* 检测时间：约1秒
+
 ## 原型-部分功能说明
 #### 1、首页——所有的预约功能都是在这实现的
 ![首页](https://github.com/SunnyHe1999/API_ML_AI/blob/master/image/%E9%A6%96%E9%A1%B5.png)

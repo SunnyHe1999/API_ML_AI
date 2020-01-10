@@ -66,6 +66,8 @@ Epic | 预约拍照App |
 #### 3.成为摄影师交互流程
 ![成为摄影师交互流程](https://github.com/SunnyHe1999/API_ML_AI/blob/master/image/%E6%88%91%E7%9A%84%E9%A1%B5%E4%BA%A4%E4%BA%92%E6%B5%81%E7%A8%8B.png)  
 
+#### [点击查看原型仓库](http://nfunm172017136.gitee.io/html). 
+
 ## 产品信息架构图
 ![产品信息架构图](https://github.com/SunnyHe1999/API_ML_AI/blob/master/image/%E4%BA%A7%E5%93%81%E4%BF%A1%E6%81%AF%E6%9E%B6%E6%9E%84%E5%9B%BE.png)  
 
